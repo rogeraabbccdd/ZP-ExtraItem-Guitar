@@ -1,0 +1,10 @@
+VertexLitGeneric
+{
+	"$baseTexture" "models\weapons\v_models\CSOLguita\CSO_HighQ_Hand_512"
+	"$bumpmap" "models\weapons\v_models\CSOLguita\CSO_HighQ_Hand_512_normal"
+	"$phong" "1"
+	"$phongexponent" "10"
+	"$phongboost" "0.17"	
+	"$phongfresnelranges"	"[1 3 6]"
+	"$phongalbedotint" "1"
+}

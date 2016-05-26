@@ -1,0 +1,5 @@
+VertexLitGeneric
+{
+	"$basetexture" "models\weapons\v_models\CSOLguita\note1"
+	"$additive" "1"
+}

@@ -1,0 +1,6 @@
+VertexLitGeneric
+{
+	"$basetexture" "models\weapons\w_models\guita\guitar"
+	"$envmap" "env_cubemap"
+	"$envmapmask" "models\weapons\w_models\guita\guitar_ref"
+}
