@@ -9,3 +9,5 @@ Zombie Plague Plugin https://forums.alliedmods.net/showthread.php?t=272546
 Thanks gubka (https://forums.alliedmods.net/member.php?u=167258) for this amazing plugin.
 
 Model by zx541591555 (http://www.modchina.com/thread-44040-1-1.html), compile to csgo by me.
+
+Alliedmodders Post https://forums.alliedmods.net/showpost.php?p=2422113&postcount=616
